@@ -1,8 +1,6 @@
 <div align="center">
 
-# Arthur Amancio Francisco
-
-### Desenvolvimento de Software • Java • Spring Boot • PostgreSQL
+<img src="./assets/profile-banner.svg" alt="Arthur Amancio Francisco — Desenvolvimento de Software" width="100%">
 
 Estudante de **Informática para Internet** e estagiário de **Tecnologia da Informação**, unindo desenvolvimento de software, suporte técnico e infraestrutura.
 
