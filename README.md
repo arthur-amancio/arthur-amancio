@@ -2,7 +2,7 @@
 
 <img src="./assets/profile-banner.svg" alt="Arthur Amancio Francisco — Desenvolvimento de Software" width="100%">
 
-Estudante de **Informática para Internet** e estagiário de **Tecnologia da Informação**, unindo desenvolvimento de software, suporte técnico e infraestrutura.
+**Desenvolvedor Java em formação**, estudante de Informática para Internet e estagiário de Tecnologia da Informação, unindo desenvolvimento de software, suporte técnico e infraestrutura.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur_Amancio_Francisco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-amancio-francisco/)
 
