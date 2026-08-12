@@ -45,12 +45,12 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [FlowStock](https://github.com/ArthurFancisco/ControleEstoque) | SaaS multiempresa para estoque, produção, vendas e gestão. | Java, Spring Boot, React, TypeScript e PostgreSQL |
-| [AgendaFácil Pro](https://github.com/ArthurFancisco/AgendaFacil) | Sistema web de agendamento com área pública e painel protegido. | Java, Spring Boot, Thymeleaf, Security e PostgreSQL |
-| [ND Lanches](https://github.com/ArthurFancisco/NdLanches) | Frontend de cardápio digital com área administrativa. | HTML, CSS e JavaScript |
-| [ND Lanches API](https://github.com/ArthurFancisco/Nd-Lanches-API) | API para produtos, adicionais, pedidos, banners e uploads. | Java, Spring Boot, PostgreSQL e Cloudinary |
-| [ImobiGest](https://github.com/ArthurFancisco/Gestao-de-Imoveis) | Aplicação acadêmica para gerenciamento de imóveis. | Java, Spring Boot, Thymeleaf e PostgreSQL |
-| [Festa da Pizza ETEC](https://github.com/ArthurFancisco/PizzaEtec) | Site de evento publicado com deploy automatizado. | HTML, CSS, JavaScript, Firebase e GitHub Actions |
+| [FlowStock](https://github.com/arthur-amancio/ControleEstoque) | SaaS multiempresa para estoque, produção, vendas e gestão. | Java, Spring Boot, React, TypeScript e PostgreSQL |
+| [AgendaFácil Pro](https://github.com/arthur-amancio/AgendaFacil) | Sistema web de agendamento com área pública e painel protegido. | Java, Spring Boot, Thymeleaf, Security e PostgreSQL |
+| [ND Lanches](https://github.com/arthur-amancio/NdLanches) | Frontend de cardápio digital com área administrativa. | HTML, CSS e JavaScript |
+| [ND Lanches API](https://github.com/arthur-amancio/Nd-Lanches-API) | API para produtos, adicionais, pedidos, banners e uploads. | Java, Spring Boot, PostgreSQL e Cloudinary |
+| [ImobiGest](https://github.com/arthur-amancio/Gestao-de-Imoveis) | Aplicação acadêmica para gerenciamento de imóveis. | Java, Spring Boot, Thymeleaf e PostgreSQL |
+| [Festa da Pizza ETEC](https://github.com/arthur-amancio/PizzaEtec) | Site de evento publicado com deploy automatizado. | HTML, CSS, JavaScript, Firebase e GitHub Actions |
 
 ## Objetivo profissional
 
