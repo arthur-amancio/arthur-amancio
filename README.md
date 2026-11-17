@@ -6,7 +6,7 @@
 
 Transformo processos de agendamento e gestão em aplicações web, com atenção às regras de negócio, aos dados e à experiência de quem usa.
 
-[LinkedIn](https://www.linkedin.com/in/arthur-amancio-francisco/) · [Projetos](#projetos-em-destaque) · [Portfólio](https://arthur-amancio-portfolio.onrender.com/)
+[LinkedIn](https://www.linkedin.com/in/arthur-amancio-francisco/) · [Projetos](#projetos-em-destaque) · [Portfólio](https://arthur-amancio-portfolio.onrender.com/) · [Código do portfólio](https://github.com/arthur-amancio/Portifolio)
 
 </div>
 
@@ -31,18 +31,6 @@ Busco oportunidades para crescer em desenvolvimento de software e contribuir com
 **Java 17 · Spring Boot · Thymeleaf · Spring Security · PostgreSQL · PDFBox**
 
 [Conheça o projeto e a execução local →](https://github.com/arthur-amancio/CourtTime#readme)
-
-### [UpBox — gestão de estoque](https://github.com/arthur-amancio/UpBox)
-
-Aplicação acadêmica de estoque com cadastros, entradas e saídas, histórico, dashboard e relatórios.
-
-- Movimentações com transação e bloqueio para preservar o saldo e o histórico.
-- Perfis de acesso e troca obrigatória da senha no primeiro acesso.
-- Execução local no Windows e pacote com JAR para demonstração escolar.
-
-**Java 17/21 · Spring Boot · Thymeleaf · Spring Security · MySQL**
-
-[Conheça o projeto e a execução local →](https://github.com/arthur-amancio/UpBox#readme)
 
 ### Outros projetos
 
